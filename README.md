@@ -9,5 +9,5 @@ Requires a Mac with `PIL` installed.
 ## Setup and use
 
 Send `Arduino/Arduino.ino` to the Arduino and plug it in via a USB serial or other serial connection.  
-Start `Mac/Colors.py` in the Terminal, follow the instructions to select your Arduino.
+Start `Host/Colors.py` in the Terminal, follow the instructions to select your Arduino.
 
