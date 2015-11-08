@@ -37,7 +37,7 @@ void setup() {
 void loop() {
   // Begin fading the LEDs
   initalTime = millis();
-  currentTime = millis() = initalTime;
+  currentTime = millis();
   while (currentTime < 1000) {
     currentTime = millis() - initalTime;
     for (int Channel = 0; Channel < 3; Channel++) {
